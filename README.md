@@ -32,3 +32,10 @@ pip install -r requirements.txt
 
 # 4. 运行（需先下载 Qwen 等模型）
 python main.py
+
+支持的模型包括：
+
+Qwen/Qwen1.5-0.5B-Chat
+Qwen/Qwen1.5-1.8B-Chat ✅ 推荐
+Qwen/Qwen1.5-4B-Chat
+meta-llama/Llama-2-7b-chat-hf（需申请）
